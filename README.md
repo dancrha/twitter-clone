@@ -1,6 +1,3 @@
-Click the following link to try out my Twitter clone!
-[twitter-clone-af00e.web.app](url)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
