@@ -1,5 +1,5 @@
-#Click the following link to try out my Twitter clone!
-twitter-clone-af00e.web.app
+Click the following link to try out my Twitter clone!
+[twitter-clone-af00e.web.app](url)
 
 # Getting Started with Create React App
 
