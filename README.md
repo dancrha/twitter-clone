@@ -1,4 +1,4 @@
-#**Twitter Clone Web App**
+**#Twitter Clone Web App**
 
 This is a Twitter clone web application built with React.js and Firebase. It is currently just the Twitter landing page, but users can make posts and see reccomended posts.
 
